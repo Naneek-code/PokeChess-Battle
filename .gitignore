@@ -1,2 +1,4 @@
 # Godot 4+ specific ignores
 .godot/
+Godot_v4.2.2-Console.exe
+Godot_v4.2.2.exe
